@@ -1,2 +1,5 @@
 # movie-ratings
-Fun with turtle functions!
+movie ratings project
+by James Middleton
+
+For your movie review
