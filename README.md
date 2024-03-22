@@ -1,5 +1,5 @@
 # movie-ratings
-movie ratings project
+Hello World Project
 by James Middleton
 
-For your movie review
+Beginner project
